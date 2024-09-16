@@ -20,6 +20,8 @@ bin/
 /nbbuild/
 /dist/
 /nbdist/
+
+
 /.nb-gradle/
 
 ### VS Code ###
@@ -27,3 +29,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+.idea/
