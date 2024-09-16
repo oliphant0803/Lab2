@@ -12,6 +12,7 @@
 1. Preheat the oven to 350°F (175°C).
 2. In a large bowl, whisk together the flour, sugar, cocoa powder, chocolate chips, vanilla extract and ground cinnamon.
 3. ...
+4. Profit!!!
 
 ## Additional Directions by Alice:
 1. In a separate bowl, beat the eggs and add them to the mixture. Stir until well combined.
